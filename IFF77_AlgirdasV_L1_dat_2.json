@@ -1,0 +1,129 @@
+{
+    "clients": [
+        {
+            "name": "Leta Grimes",
+            "age": 18,
+            "cash": 2691.17
+        },
+        {
+            "name": "Mildred Reese",
+            "age": 27,
+            "cash": 6690.25
+        },
+        {
+            "name": "Dionne Campos",
+            "age": 64,
+            "cash": 5027.14
+        },
+        {
+            "name": "Miles Doyle",
+            "age": 59,
+            "cash": 7704.88
+        },
+        {
+            "name": "Catalina Howell",
+            "age": 64,
+            "cash": 3414.65
+        },
+        {
+            "name": "Yates Peterson",
+            "age": 58,
+            "cash": 4948.08
+        },
+        {
+            "name": "Conner Macias",
+            "age": 65,
+            "cash": 7.84
+        },
+        {
+            "name": "Marion Carroll",
+            "age": 74,
+            "cash": 1946.53
+        },
+        {
+            "name": "Burke Rollins",
+            "age": 69,
+            "cash": 2784.76
+        },
+        {
+            "name": "Blanchard Contreras",
+            "age": 43,
+            "cash": 1236.94
+        },
+        {
+            "name": "Kirsten Bonner",
+            "age": 63,
+            "cash": 141.5
+        },
+        {
+            "name": "Kathleen Dixon",
+            "age": 70,
+            "cash": 9711.13
+        },
+        {
+            "name": "Winnie Wheeler",
+            "age": 68,
+            "cash": 8737.62
+        },
+        {
+            "name": "Zamora Finley",
+            "age": 21,
+            "cash": 7170.44
+        },
+        {
+            "name": "Shanna Durham",
+            "age": 23,
+            "cash": 3077.28
+        },
+        {
+            "name": "Durham Madden",
+            "age": 62,
+            "cash": 2975.81
+        },
+        {
+            "name": "Fuller Foreman",
+            "age": 55,
+            "cash": 3656.2
+        },
+        {
+            "name": "Kasey Benson",
+            "age": 46,
+            "cash": 1485.78
+        },
+        {
+            "name": "Lucy Hale",
+            "age": 53,
+            "cash": 6400.15
+        },
+        {
+            "name": "Brandie Lindsey",
+            "age": 74,
+            "cash": 2925.55
+        },
+        {
+            "name": "Savannah Landry",
+            "age": 52,
+            "cash": 1433.22
+        },
+        {
+            "name": "Shelton Sykes",
+            "age": 24,
+            "cash": 1228.92
+        },
+        {
+            "name": "Madge Rogers",
+            "age": 27,
+            "cash": 5107.67
+        },
+        {
+            "name": "Manning Galloway",
+            "age": 72,
+            "cash": 9507.98
+        },
+        {
+            "name": "Enid Mosley",
+            "age": 72,
+            "cash": 3863.15
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "clients": [
+		{
+            "name": "Johnnie Dotson",
+            "age": 42,
+            "cash": 2293.81
+        },
+        {
+            "name": "Callahan Rhodes",
+            "age": 71,
+            "cash": 213.74
+        },
+        {
+            "name": "Thelma House",
+            "age": 67,
+            "cash": 8813.72
+        },
+        {
+            "name": "Mann Evans",
+            "age": 30,
+            "cash": 6617.51
+        },
+        {
+            "name": "Robyn Long",
+            "age": 43,
+            "cash": 2819.47
+        },
+        {
+            "name": "Helga Cash",
+            "age": 55,
+            "cash": 1799.81
+        },
+        {
+            "name": "Kim Clarke",
+            "age": 39,
+            "cash": 9192.51
+        },
+        {
+            "name": "Stephanie Mcfarland",
+            "age": 57,
+            "cash": 2742.98
+        },
+        {
+            "name": "Ilene Roberson",
+            "age": 19,
+            "cash": 8829.02
+        },
+        {
+            "name": "Bonnie Mills",
+            "age": 73,
+            "cash": 3038.7
+        },
+        {
+            "name": "Mercado Morton",
+            "age": 60,
+            "cash": 2415.11
+        },
+		{
+            "name": "Berger Price",
+            "age": 19,
+            "cash": 7760.42
+        },
+        {
+            "name": "Victoria Kim",
+            "age": 27,
+            "cash": 9194.6
+        },
+        {
+            "name": "Brown Jenkins",
+            "age": 18,
+            "cash": 4235.82
+        },
+        {
+            "name": "Blair Bryant",
+            "age": 68,
+            "cash": 6944.78
+        },
+        {
+            "name": "Mayra Patel",
+            "age": 22,
+            "cash": 1026.35
+        },
+        {
+            "name": "Newton Guerra",
+            "age": 58,
+            "cash": 1793.02
+        },
+        {
+            "name": "Dollie Medina",
+            "age": 65,
+            "cash": 173.27
+        },
+        {
+            "name": "Vance Bryan",
+            "age": 72,
+            "cash": 511.35
+        },
+		{
+            "name": "Phoebe Whitney",
+            "age": 36,
+            "cash": 8739.77
+        },
+        {
+            "name": "Powell Gaines",
+            "age": 51,
+            "cash": 2295.36
+        },
+        {
+            "name": "Eddie Phelps",
+            "age": 23,
+            "cash": 4809.19
+        },
+        {
+            "name": "Charlotte Swanson",
+            "age": 46,
+            "cash": 7458.07
+        },
+        {
+            "name": "Wilkerson Graves",
+            "age": 19,
+            "cash": 5064.01
+        },
+        {
+            "name": "Stevenson Hopper",
+            "age": 23,
+            "cash": 7508.67
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+-------------------------------------------------
+|                 Name | Age |    Cash |  Prime |
+-------------------------------------------------
+|       Kline Mckenzie |  35 | 9991.99 |  29033 |
+|       Erika Castillo |  61 | 3915.85 |  28813 |
+|    Peterson Townsend |  37 | 2046.38 |  26153 |
+|        Durham Madden |  62 | 2975.81 |  25693 |
+|     Caroline Parsons |  69 | 3887.55 |  23633 |
+|      Catalina Howell |  64 | 3414.65 |  22573 |
+|         Lamb Merritt |  45 | 6252.27 |  20693 |
+|           Luisa Kerr |  25 | 9148.17 |  20183 |
+|          Eddie Avery |  19 | 8804.81 |  16763 |
+|          Joni Oliver |  48 |  405.64 |  16073 |
+|        Conner Macias |  65 |    7.84 |  15923 |
+|          Bianca Lynn |  51 | 4010.97 |  14723 |
+|     Pennington Rivas |  57 |  2348.9 |  12763 |
+|          Enid Mosley |  72 | 3863.15 |  12263 |
+|        Shelton Sykes |  24 | 1228.92 |  11423 |
+|         Brenda Horne |  42 |  333.93 |  10903 |
+|    Bradford Marshall |  50 | 4034.02 |  10193 |
+|     Dillon Rasmussen |  37 |    6434 |   9973 |
+|     Gwendolyn Bowman |  66 |  6073.7 |   7703 |
+|        Zamora Finley |  21 | 7170.44 |   7043 |
+|      Savannah Landry |  52 | 1433.22 |   3853 |
+|          Cantu Ortiz |  72 | 3152.55 |   3593 |
+|         Dona Watkins |  52 | 9396.26 |   2153 |
+|     Hatfield Buckley |  22 | 9704.04 |   1373 |
+|            Holt Huff |  73 | 5533.52 |    523 |
+-------------------------------------------------

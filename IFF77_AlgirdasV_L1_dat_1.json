@@ -1,0 +1,129 @@
+{
+    "clients": [
+		{
+            "name": "Savannah Landry",
+            "age": 52,
+            "cash": 1433.22
+        },
+		{
+            "name": "Dillon Rasmussen",
+            "age": 37,
+            "cash": 6434
+        },
+		{
+            "name": "Dona Watkins",
+            "age": 52,
+            "cash": 9396.26
+        },
+		{
+            "name": "Joni Oliver",
+            "age": 48,
+            "cash": 405.64
+        },
+        {
+            "name": "Shelton Sykes",
+            "age": 24,
+            "cash": 1228.92
+        },
+		{
+            "name": "Erika Castillo",
+            "age": 61,
+            "cash": 3915.85
+        },
+		{
+            "name": "Kline Mckenzie",
+            "age": 35,
+            "cash": 9991.99
+        },
+		{
+            "name": "Lamb Merritt",
+            "age": 45,
+            "cash": 6252.27
+        },
+		{
+            "name": "Bradford Marshall",
+            "age": 50,
+            "cash": 4034.02
+        },
+        {
+            "name": "Hatfield Buckley",
+            "age": 22,
+            "cash": 9704.04
+        },
+		{
+		  "name": "Gwendolyn Bowman",
+		  "age": 66,
+		  "cash": 6073.7
+		},
+		{
+		  "name": "Caroline Parsons",
+		  "age": 69,
+		  "cash": 3887.55
+		},
+		{
+            "name": "Zamora Finley",
+            "age": 21,
+            "cash": 7170.44
+        },
+		{
+		  "name": "Pennington Rivas",
+		  "age": 57,
+		  "cash": 2348.9
+		},
+		{
+		  "name": "Luisa Kerr",
+		  "age": 25,
+		  "cash": 9148.17
+		},
+		{
+		  "name": "Cantu Ortiz",
+		  "age": 72,
+		  "cash": 3152.55
+		},
+		{
+            "name": "Bianca Lynn",
+            "age": 51,
+            "cash": 4010.97
+        },
+        {
+            "name": "Peterson Townsend",
+            "age": 37,
+            "cash": 2046.38
+        },
+        {
+            "name": "Catalina Howell",
+            "age": 64,
+            "cash": 3414.65
+        },
+		{
+            "name": "Eddie Avery",
+            "age": 19,
+            "cash": 8804.81
+        },
+        {
+            "name": "Holt Huff",
+            "age": 73,
+            "cash": 5533.52
+        },
+        {
+            "name": "Brenda Horne",
+            "age": 42,
+            "cash": 333.93
+        },
+        {
+            "name": "Conner Macias",
+            "age": 65,
+            "cash": 7.84
+        },
+        {
+            "name": "Durham Madden",
+            "age": 62,
+            "cash": 2975.81
+        },
+        {
+            "name": "Enid Mosley",
+            "age": 72,
+            "cash": 3863.15
+        }
+    ]
+}
